@@ -1,6 +1,6 @@
 {
   "name": "autoupdate",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "An Electron application with React",
   "main": "./out/main/index.js",
   "author": "example.com",
@@ -20,8 +20,10 @@
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.2",
     "@electron-toolkit/utils": "^4.0.0",
+    "@tailwindcss/vite": "^4.1.11",
     "electron-log": "^5.4.1",
-    "electron-updater": "^6.6.2"
+    "electron-updater": "^6.6.2",
+    "tailwindcss": "^4.1.11"
   },
   "build": {
     "appId": "com.yourname.app",
