@@ -32,10 +32,10 @@ npm install
 npm run dev
 ```
 
-- Add the `electron-updater` package to your project
+- Add the `electron-updater` and `electron-log` package to your project
 
 ```
-npm install electron-updater
+npm install electron-updater electron-log
 ```
 
 - Add the following lines to your `src/main/index.js` file [Customize the existing setup of `mainWindow`]
