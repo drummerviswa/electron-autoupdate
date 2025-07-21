@@ -9,7 +9,8 @@ function App() {
 
   return (
     <div>
-      <h1>Auto Update Test</h1>
+      <h1>This is the new version of the application</h1>
+      <h1>Test the new &apos;Auto Update Feature&apos;</h1>
     </div>
   )
 }
